@@ -1,0 +1,17 @@
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\obj\Debug\net8.0\BLL_Memory.csproj.AssemblyReference.cache
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\obj\Debug\net8.0\BLL_Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\obj\Debug\net8.0\BLL_Memory.AssemblyInfoInputs.cache
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\obj\Debug\net8.0\BLL_Memory.AssemblyInfo.cs
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\obj\Debug\net8.0\BLL_Memory.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\bin\Debug\net8.0\BLL_Memory.deps.json
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\bin\Debug\net8.0\BLL_Memory.dll
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\bin\Debug\net8.0\BLL_Memory.pdb
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\bin\Debug\net8.0\BLL.dll
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\bin\Debug\net8.0\DAL.dll
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\bin\Debug\net8.0\BLL.pdb
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\bin\Debug\net8.0\DAL.pdb
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\obj\Debug\net8.0\BLL_Memory.csproj.Up2Date
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\obj\Debug\net8.0\BLL_Memory.dll
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\obj\Debug\net8.0\refint\BLL_Memory.dll
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\obj\Debug\net8.0\BLL_Memory.pdb
+C:\Users\Dominik\Desktop\nauka_angulara\WebAPI\BLL_Memory\obj\Debug\net8.0\ref\BLL_Memory.dll
